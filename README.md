@@ -35,6 +35,9 @@ To design a simple and low-cost multilingual audio system that can be used in sc
 5. The audio is output through the speaker.
 
 ---
+## Circuit Diagram
+!Jnana Bot Circuit (circuit_diagram.png)
+-----
 
 ## 💡 Skills Gained
 - Embedded Systems
