@@ -61,10 +61,11 @@ To design a simple and low-cost multilingual audio system that can be used in sc
 ## 👥 Team Members
 - Thanziya C N
 - H R Karthik
-- Chitrika
+- M D Ummer Farooqh
+-  Vaishnavi
 - M Suhita
-- Vaishnavi
-- M D Ummar Farooq
+- Chitrika
+
 
 ---
 
