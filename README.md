@@ -44,7 +44,7 @@ To design a simple and low-cost multilingual audio system that can be used in sc
 - Microcontroller Programming
 - Circuit Design
 - Hardware Troubleshooting
-- Serial Communication (UART)
+
 
 ---
 
@@ -52,7 +52,6 @@ To design a simple and low-cost multilingual audio system that can be used in sc
 - Schools and Colleges
 - Museums
 - Railway Stations
-- Bus Stands
 - Tourist Information Centers
 - Smart Classroom Systems
 
