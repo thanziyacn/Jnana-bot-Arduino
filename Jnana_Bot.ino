@@ -1,7 +1,7 @@
 #include <SoftwareSerial.h>
 #include <DFRobotDFPlayerMini.h>
 
-SoftwareSerial mySerial(10, 11);
+SoftwareSerial mySerial( 10, 11);
 DFRobotDFPlayerMini player;
 
 #define SW1 2
