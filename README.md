@@ -40,7 +40,6 @@ To design a simple and low-cost multilingual audio system that can be used in sc
 -----
 
 ## 💡 Skills Gained
-- Embedded Systems
 - Microcontroller Programming
 - Circuit Design
 - Hardware Troubleshooting
@@ -61,7 +60,7 @@ To design a simple and low-cost multilingual audio system that can be used in sc
 - Thanziya C N
 - H R Karthik
 - M D Ummer Farooqh
--  Vaishnavi
+- Vaishnavi
 - M Suhita
 - Chitrika
 
