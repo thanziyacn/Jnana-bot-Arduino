@@ -65,7 +65,6 @@ To design a simple and low-cost multilingual audio system that can be used in sc
 - Chitrika
 
 
----
 
 ## 🎓 Academic Information
 First Year  
